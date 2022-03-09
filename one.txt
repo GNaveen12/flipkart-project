@@ -1,3 +1,5 @@
 welcome to aws
 aws
 devops
+head
+reset
